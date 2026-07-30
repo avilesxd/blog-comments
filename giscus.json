@@ -1,5 +1,8 @@
 {
-  "origins": ["https://avilesxd.vercel.app"],
+  "origins": [
+    "https://www.avilesxd.dev",
+    "https://avilesxd.vercel.app"
+  ],
   "originsRegex": ["^http:\\/\\/localhost:[0-9]+$"],
   "defaultCommentOrder": "newest"
 }
