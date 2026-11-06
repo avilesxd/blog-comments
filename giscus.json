@@ -1,7 +1,7 @@
 {
   "origins": [
-    "https://www.avilesxd.dev",
-    "https://avilesxd.vercel.app"
+    "https://avilesxd.dev",
+    "https://www.avilesxd.dev"
   ],
   "originsRegex": ["^http:\\/\\/localhost:[0-9]+$"],
   "defaultCommentOrder": "newest"
